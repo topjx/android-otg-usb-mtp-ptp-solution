@@ -106,13 +106,6 @@ https://github.com/michaelzoech/remoteyourcam-usb
 > 交流即分享，分享才能进步！ by 星云
 
 
-[星云CSDN博客](https://blog.csdn.net/hadues)
-
-[星云GitHub](https://github.com/geekxingyun)
-
-[星云微博](https://weibo.com/xingyunsky)
-
-
 # 联系我
 
 Email: fairy_xingyun@hotmail.com
